@@ -22,15 +22,17 @@ Projeto construído com base nas aulas do Professor Marcio(https://github.com/m4
 
 - Spring;
 
-- Documentação com Swagger (além de documentar permite operações nos controllers com uma UI );
+- Documentação com Swagger (além de documentar permite operações nos controllers com uma UI ).
 
 
 
 # Ilustrações:
 
 
+
 ## - Acesso negado por falta de token
 ![Ilustração](https://image.ibb.co/nQyRs8/acesso_Negado.png)
+
 
 
 
@@ -39,13 +41,16 @@ Projeto construído com base nas aulas do Professor Marcio(https://github.com/m4
 
 
 
+
 ## Token Gerado através do login 
 ![Ilustração](https://image.ibb.co/hLG1QT/token.png)
 
 
 
-#### - Acesso permitido com token, recebendo requisição de lançamentos
+
+## - Acesso permitido com token, recebendo requisição de lançamentos
 ![Ilustração](https://image.ibb.co/cPuczo/acesso_Permitido_Com_Token.png)
+
 
 
 
@@ -54,13 +59,16 @@ Projeto construído com base nas aulas do Professor Marcio(https://github.com/m4
 
 
 
+
 ## - Banco de dados MySQL
 ![Ilustração](https://image.ibb.co/hCnms8/mysql.png)
 
 
 
+
 ## - Spring 2+
 ![Ilustração](https://image.ibb.co/cTqjeo/Spring.png)
+
 
 
 
