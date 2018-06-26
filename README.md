@@ -26,37 +26,45 @@ Projeto construído com base nas aulas do Professor Marcio(https://github.com/m4
 
 
 
-### Ilustrações:
+# Ilustrações:
 
-#### Acesso negado por falta de token
+
+## - Acesso negado por falta de token
 ![Ilustração](https://image.ibb.co/nQyRs8/acesso_Negado.png)
 
 
-#### Fazendo login
+
+## - Fazendo login
 ![Ilustração](https://image.ibb.co/dgxms8/login.png)
 
 
-#### Token Gerado através do login 
+
+## Token Gerado através do login 
 ![Ilustração](https://image.ibb.co/hLG1QT/token.png)
 
 
-#### Acesso permitido com token, recebendo requisição de lançamentos
+
+#### - Acesso permitido com token, recebendo requisição de lançamentos
 ![Ilustração](https://image.ibb.co/cPuczo/acesso_Permitido_Com_Token.png)
 
 
-#### Documentação dinâmica
+
+## - Documentação dinâmica
 ![Ilustração](https://image.ibb.co/n3Sms8/Documentacao_Dinamica.png)
 
 
-#### Banco de dados MySQL
+
+## - Banco de dados MySQL
 ![Ilustração](https://image.ibb.co/hCnms8/mysql.png)
 
 
-#### Spring 2+
+
+## - Spring 2+
 ![Ilustração](https://image.ibb.co/cTqjeo/Spring.png)
 
 
-##### Para executar, basta importar como um projeto maven e configurar o banco de dados na sua máquina.
+
+## Para executar, basta importar como um projeto maven e configurar o banco de dados na sua máquina.
 
 
 
