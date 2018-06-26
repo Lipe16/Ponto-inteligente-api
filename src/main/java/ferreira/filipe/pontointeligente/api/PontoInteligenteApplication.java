@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cache.annotation.EnableCaching;
 import org.springframework.test.context.ActiveProfiles;
 
-//@ActiveProfiles("test")
+@ActiveProfiles("test")
 @SpringBootApplication
 @EnableCaching
 public class PontoInteligenteApplication {
