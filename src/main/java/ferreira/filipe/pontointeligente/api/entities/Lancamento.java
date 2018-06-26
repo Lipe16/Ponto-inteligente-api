@@ -41,9 +41,7 @@ import ferreira.filipe.pontointeligente.api.enums.TipoEnum;
 
 
 @Entity
-
 @Table(name = "lancamento")
-
 public class Lancamento implements Serializable {
 
 	
@@ -97,9 +95,7 @@ public class Lancamento implements Serializable {
 
 
 	@Temporal(TemporalType.TIMESTAMP)
-
 	@Column(name = "data", nullable = false)
-
 	public Date getData() {
 
 		return data;
